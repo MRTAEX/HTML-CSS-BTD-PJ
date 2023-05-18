@@ -1,0 +1,106 @@
+* {
+  scroll-behavior: smooth;
+}
+
+h1, h3
+#cathead {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 42px;
+  color: white;
+}
+
+P {
+  color: white;
+}
+
+#greeting {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  color: black;
+}
+
+body {
+  background-color: #232761;
+}
+
+ul {
+  border: none;
+  max-width: 500px;
+  text-align: left;
+  color: white;
+}
+
+.gotten {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  color: white;
+}
+
+.borders {
+  border-radius: 10;
+  width: 500px;
+  height: 35px;
+  background-color: black
+}
+
+.bordersnd {
+  border-radius: 10;
+  width: 500px;
+  height: 50px;
+  background-color: lightblue;
+  
+}
+
+img {
+  max-width: 320px;
+  float: bottom;
+  border: 3px soild #fff;
+  border-radius: 10px;
+  margin: 15px;
+}
+
+.divbor {
+  border-radius: 10;
+  width: 500px;
+  height: 175px;
+  background-color: gray;
+}
+
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-size: 42px;
+  margin-top: -20px;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: paleturquoise;
+  font-size: 35px;
+}
+
+.textbox {
+  max-width: 500px;
+  max-height: 100px;
+  margin-top: -15px;
+  text-align: left;
+}
+
+#cathead {
+  color: yellow;
+}
+
+#rdsection {
+padding-top: 10px;
+margin-top: 15px;
+font-size: 20px;
+color: wheat;
+}
+
+#letter {
+  margin-top: 25px;
+}
+
+.thanks {
+  margin-top: -40px;
+}
